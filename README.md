@@ -4,4 +4,4 @@ Hybrid
 
 Stand Alone 
 
-Can be easily incorporated into the RAT/Botnet
+Can be easily incorporated into the RAT-Botnet
